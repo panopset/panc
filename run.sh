@@ -1,2 +1,2 @@
-./hello
+./bin/hello
 

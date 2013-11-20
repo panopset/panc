@@ -3,7 +3,7 @@
 /**
 Simple c program, written on a rainy day.
 */
-main() {
- printf("Hello, world! 000\n");
+int main() {
+ printf("Hello, world! 001\n");
  return 0;
 }
